@@ -25,4 +25,7 @@ public class GitClass {
 	private void method2() {
 		System.out.println("helooo iecprog");
 	}
+	private void method3() {
+		System.out.println("helooooooooooooooooooooo iecprog");
+	}
 }
