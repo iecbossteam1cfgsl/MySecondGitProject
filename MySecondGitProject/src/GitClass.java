@@ -14,5 +14,10 @@ public class GitClass {
 	public void setParam2(String param2) {
 		this.param2 = param2;
 	}
+	public GitClass(String param1, String param2) {
+		super();
+		this.param1 = param1;
+		this.param2 = param2;
+	}
 	
 }
