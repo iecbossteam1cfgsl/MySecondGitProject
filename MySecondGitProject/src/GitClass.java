@@ -19,5 +19,7 @@ public class GitClass {
 		this.param1 = param1;
 		this.param2 = param2;
 	}
-	
+	private void method1() {
+		System.out.println("helooo");
+	}
 }
